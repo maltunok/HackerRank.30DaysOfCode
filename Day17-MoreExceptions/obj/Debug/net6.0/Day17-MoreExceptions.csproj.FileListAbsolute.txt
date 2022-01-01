@@ -1,0 +1,15 @@
+E:\HackerRank.30DaysOfCode\Day17-MoreExceptions\obj\Debug\net6.0\Day17-MoreExceptions.csproj.AssemblyReference.cache
+E:\HackerRank.30DaysOfCode\Day17-MoreExceptions\obj\Debug\net6.0\Day17-MoreExceptions.GeneratedMSBuildEditorConfig.editorconfig
+E:\HackerRank.30DaysOfCode\Day17-MoreExceptions\obj\Debug\net6.0\Day17-MoreExceptions.AssemblyInfoInputs.cache
+E:\HackerRank.30DaysOfCode\Day17-MoreExceptions\obj\Debug\net6.0\Day17-MoreExceptions.AssemblyInfo.cs
+E:\HackerRank.30DaysOfCode\Day17-MoreExceptions\obj\Debug\net6.0\Day17-MoreExceptions.csproj.CoreCompileInputs.cache
+E:\HackerRank.30DaysOfCode\Day17-MoreExceptions\bin\Debug\net6.0\Day17-MoreExceptions.exe
+E:\HackerRank.30DaysOfCode\Day17-MoreExceptions\bin\Debug\net6.0\Day17-MoreExceptions.deps.json
+E:\HackerRank.30DaysOfCode\Day17-MoreExceptions\bin\Debug\net6.0\Day17-MoreExceptions.runtimeconfig.json
+E:\HackerRank.30DaysOfCode\Day17-MoreExceptions\bin\Debug\net6.0\Day17-MoreExceptions.dll
+E:\HackerRank.30DaysOfCode\Day17-MoreExceptions\bin\Debug\net6.0\ref\Day17-MoreExceptions.dll
+E:\HackerRank.30DaysOfCode\Day17-MoreExceptions\bin\Debug\net6.0\Day17-MoreExceptions.pdb
+E:\HackerRank.30DaysOfCode\Day17-MoreExceptions\obj\Debug\net6.0\Day17-MoreExceptions.dll
+E:\HackerRank.30DaysOfCode\Day17-MoreExceptions\obj\Debug\net6.0\ref\Day17-MoreExceptions.dll
+E:\HackerRank.30DaysOfCode\Day17-MoreExceptions\obj\Debug\net6.0\Day17-MoreExceptions.pdb
+E:\HackerRank.30DaysOfCode\Day17-MoreExceptions\obj\Debug\net6.0\Day17-MoreExceptions.genruntimeconfig.cache

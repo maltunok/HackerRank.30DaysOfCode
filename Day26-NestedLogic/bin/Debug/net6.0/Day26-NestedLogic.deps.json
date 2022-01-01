@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Day26-NestedLogic/1.0.0": {
+        "runtime": {
+          "Day26-NestedLogic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day26-NestedLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

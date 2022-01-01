@@ -1,0 +1,15 @@
+E:\HackerRank.30DaysOfCode\Day20-Sorting\bin\Debug\net6.0\Day20-Sorting.exe
+E:\HackerRank.30DaysOfCode\Day20-Sorting\bin\Debug\net6.0\Day20-Sorting.deps.json
+E:\HackerRank.30DaysOfCode\Day20-Sorting\bin\Debug\net6.0\Day20-Sorting.runtimeconfig.json
+E:\HackerRank.30DaysOfCode\Day20-Sorting\bin\Debug\net6.0\Day20-Sorting.dll
+E:\HackerRank.30DaysOfCode\Day20-Sorting\bin\Debug\net6.0\ref\Day20-Sorting.dll
+E:\HackerRank.30DaysOfCode\Day20-Sorting\bin\Debug\net6.0\Day20-Sorting.pdb
+E:\HackerRank.30DaysOfCode\Day20-Sorting\obj\Debug\net6.0\Day20-Sorting.csproj.AssemblyReference.cache
+E:\HackerRank.30DaysOfCode\Day20-Sorting\obj\Debug\net6.0\Day20-Sorting.GeneratedMSBuildEditorConfig.editorconfig
+E:\HackerRank.30DaysOfCode\Day20-Sorting\obj\Debug\net6.0\Day20-Sorting.AssemblyInfoInputs.cache
+E:\HackerRank.30DaysOfCode\Day20-Sorting\obj\Debug\net6.0\Day20-Sorting.AssemblyInfo.cs
+E:\HackerRank.30DaysOfCode\Day20-Sorting\obj\Debug\net6.0\Day20-Sorting.csproj.CoreCompileInputs.cache
+E:\HackerRank.30DaysOfCode\Day20-Sorting\obj\Debug\net6.0\Day20-Sorting.dll
+E:\HackerRank.30DaysOfCode\Day20-Sorting\obj\Debug\net6.0\ref\Day20-Sorting.dll
+E:\HackerRank.30DaysOfCode\Day20-Sorting\obj\Debug\net6.0\Day20-Sorting.pdb
+E:\HackerRank.30DaysOfCode\Day20-Sorting\obj\Debug\net6.0\Day20-Sorting.genruntimeconfig.cache

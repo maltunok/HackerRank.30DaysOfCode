@@ -1,0 +1,15 @@
+E:\HackerRank.30DaysOfCode\Day19-Interfaces\bin\Debug\net6.0\Day19-Interfaces.exe
+E:\HackerRank.30DaysOfCode\Day19-Interfaces\bin\Debug\net6.0\Day19-Interfaces.deps.json
+E:\HackerRank.30DaysOfCode\Day19-Interfaces\bin\Debug\net6.0\Day19-Interfaces.runtimeconfig.json
+E:\HackerRank.30DaysOfCode\Day19-Interfaces\bin\Debug\net6.0\Day19-Interfaces.dll
+E:\HackerRank.30DaysOfCode\Day19-Interfaces\bin\Debug\net6.0\ref\Day19-Interfaces.dll
+E:\HackerRank.30DaysOfCode\Day19-Interfaces\bin\Debug\net6.0\Day19-Interfaces.pdb
+E:\HackerRank.30DaysOfCode\Day19-Interfaces\obj\Debug\net6.0\Day19-Interfaces.csproj.AssemblyReference.cache
+E:\HackerRank.30DaysOfCode\Day19-Interfaces\obj\Debug\net6.0\Day19-Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\HackerRank.30DaysOfCode\Day19-Interfaces\obj\Debug\net6.0\Day19-Interfaces.AssemblyInfoInputs.cache
+E:\HackerRank.30DaysOfCode\Day19-Interfaces\obj\Debug\net6.0\Day19-Interfaces.AssemblyInfo.cs
+E:\HackerRank.30DaysOfCode\Day19-Interfaces\obj\Debug\net6.0\Day19-Interfaces.csproj.CoreCompileInputs.cache
+E:\HackerRank.30DaysOfCode\Day19-Interfaces\obj\Debug\net6.0\Day19-Interfaces.dll
+E:\HackerRank.30DaysOfCode\Day19-Interfaces\obj\Debug\net6.0\ref\Day19-Interfaces.dll
+E:\HackerRank.30DaysOfCode\Day19-Interfaces\obj\Debug\net6.0\Day19-Interfaces.pdb
+E:\HackerRank.30DaysOfCode\Day19-Interfaces\obj\Debug\net6.0\Day19-Interfaces.genruntimeconfig.cache

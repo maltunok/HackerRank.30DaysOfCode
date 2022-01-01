@@ -1,0 +1,15 @@
+E:\HackerRank.30DaysOfCode\Day10-BinaryNumbers\bin\Debug\net6.0\Day10-BinaryNumbers.exe
+E:\HackerRank.30DaysOfCode\Day10-BinaryNumbers\bin\Debug\net6.0\Day10-BinaryNumbers.deps.json
+E:\HackerRank.30DaysOfCode\Day10-BinaryNumbers\bin\Debug\net6.0\Day10-BinaryNumbers.runtimeconfig.json
+E:\HackerRank.30DaysOfCode\Day10-BinaryNumbers\bin\Debug\net6.0\Day10-BinaryNumbers.dll
+E:\HackerRank.30DaysOfCode\Day10-BinaryNumbers\bin\Debug\net6.0\ref\Day10-BinaryNumbers.dll
+E:\HackerRank.30DaysOfCode\Day10-BinaryNumbers\bin\Debug\net6.0\Day10-BinaryNumbers.pdb
+E:\HackerRank.30DaysOfCode\Day10-BinaryNumbers\obj\Debug\net6.0\Day10-BinaryNumbers.csproj.AssemblyReference.cache
+E:\HackerRank.30DaysOfCode\Day10-BinaryNumbers\obj\Debug\net6.0\Day10-BinaryNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\HackerRank.30DaysOfCode\Day10-BinaryNumbers\obj\Debug\net6.0\Day10-BinaryNumbers.AssemblyInfoInputs.cache
+E:\HackerRank.30DaysOfCode\Day10-BinaryNumbers\obj\Debug\net6.0\Day10-BinaryNumbers.AssemblyInfo.cs
+E:\HackerRank.30DaysOfCode\Day10-BinaryNumbers\obj\Debug\net6.0\Day10-BinaryNumbers.csproj.CoreCompileInputs.cache
+E:\HackerRank.30DaysOfCode\Day10-BinaryNumbers\obj\Debug\net6.0\Day10-BinaryNumbers.dll
+E:\HackerRank.30DaysOfCode\Day10-BinaryNumbers\obj\Debug\net6.0\ref\Day10-BinaryNumbers.dll
+E:\HackerRank.30DaysOfCode\Day10-BinaryNumbers\obj\Debug\net6.0\Day10-BinaryNumbers.pdb
+E:\HackerRank.30DaysOfCode\Day10-BinaryNumbers\obj\Debug\net6.0\Day10-BinaryNumbers.genruntimeconfig.cache

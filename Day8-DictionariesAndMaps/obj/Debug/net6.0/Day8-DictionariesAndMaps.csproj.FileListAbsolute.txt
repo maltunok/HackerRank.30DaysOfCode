@@ -1,0 +1,15 @@
+E:\HackerRank.30DaysOfCode\Day8-DictionariesAndMaps\obj\Debug\net6.0\Day8-DictionariesAndMaps.csproj.AssemblyReference.cache
+E:\HackerRank.30DaysOfCode\Day8-DictionariesAndMaps\obj\Debug\net6.0\Day8-DictionariesAndMaps.GeneratedMSBuildEditorConfig.editorconfig
+E:\HackerRank.30DaysOfCode\Day8-DictionariesAndMaps\obj\Debug\net6.0\Day8-DictionariesAndMaps.AssemblyInfoInputs.cache
+E:\HackerRank.30DaysOfCode\Day8-DictionariesAndMaps\obj\Debug\net6.0\Day8-DictionariesAndMaps.AssemblyInfo.cs
+E:\HackerRank.30DaysOfCode\Day8-DictionariesAndMaps\obj\Debug\net6.0\Day8-DictionariesAndMaps.csproj.CoreCompileInputs.cache
+E:\HackerRank.30DaysOfCode\Day8-DictionariesAndMaps\bin\Debug\net6.0\Day8-DictionariesAndMaps.exe
+E:\HackerRank.30DaysOfCode\Day8-DictionariesAndMaps\bin\Debug\net6.0\Day8-DictionariesAndMaps.deps.json
+E:\HackerRank.30DaysOfCode\Day8-DictionariesAndMaps\bin\Debug\net6.0\Day8-DictionariesAndMaps.runtimeconfig.json
+E:\HackerRank.30DaysOfCode\Day8-DictionariesAndMaps\bin\Debug\net6.0\Day8-DictionariesAndMaps.dll
+E:\HackerRank.30DaysOfCode\Day8-DictionariesAndMaps\bin\Debug\net6.0\ref\Day8-DictionariesAndMaps.dll
+E:\HackerRank.30DaysOfCode\Day8-DictionariesAndMaps\bin\Debug\net6.0\Day8-DictionariesAndMaps.pdb
+E:\HackerRank.30DaysOfCode\Day8-DictionariesAndMaps\obj\Debug\net6.0\Day8-DictionariesAndMaps.dll
+E:\HackerRank.30DaysOfCode\Day8-DictionariesAndMaps\obj\Debug\net6.0\ref\Day8-DictionariesAndMaps.dll
+E:\HackerRank.30DaysOfCode\Day8-DictionariesAndMaps\obj\Debug\net6.0\Day8-DictionariesAndMaps.pdb
+E:\HackerRank.30DaysOfCode\Day8-DictionariesAndMaps\obj\Debug\net6.0\Day8-DictionariesAndMaps.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\HackerRank.30DaysOfCode\Day21-Generics\bin\Debug\net6.0\Day21-Generics.exe
+E:\HackerRank.30DaysOfCode\Day21-Generics\bin\Debug\net6.0\Day21-Generics.deps.json
+E:\HackerRank.30DaysOfCode\Day21-Generics\bin\Debug\net6.0\Day21-Generics.runtimeconfig.json
+E:\HackerRank.30DaysOfCode\Day21-Generics\bin\Debug\net6.0\Day21-Generics.dll
+E:\HackerRank.30DaysOfCode\Day21-Generics\bin\Debug\net6.0\ref\Day21-Generics.dll
+E:\HackerRank.30DaysOfCode\Day21-Generics\bin\Debug\net6.0\Day21-Generics.pdb
+E:\HackerRank.30DaysOfCode\Day21-Generics\obj\Debug\net6.0\Day21-Generics.csproj.AssemblyReference.cache
+E:\HackerRank.30DaysOfCode\Day21-Generics\obj\Debug\net6.0\Day21-Generics.GeneratedMSBuildEditorConfig.editorconfig
+E:\HackerRank.30DaysOfCode\Day21-Generics\obj\Debug\net6.0\Day21-Generics.AssemblyInfoInputs.cache
+E:\HackerRank.30DaysOfCode\Day21-Generics\obj\Debug\net6.0\Day21-Generics.AssemblyInfo.cs
+E:\HackerRank.30DaysOfCode\Day21-Generics\obj\Debug\net6.0\Day21-Generics.csproj.CoreCompileInputs.cache
+E:\HackerRank.30DaysOfCode\Day21-Generics\obj\Debug\net6.0\Day21-Generics.dll
+E:\HackerRank.30DaysOfCode\Day21-Generics\obj\Debug\net6.0\ref\Day21-Generics.dll
+E:\HackerRank.30DaysOfCode\Day21-Generics\obj\Debug\net6.0\Day21-Generics.pdb
+E:\HackerRank.30DaysOfCode\Day21-Generics\obj\Debug\net6.0\Day21-Generics.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\HackerRank.30DaysOfCode\Day9-Recursion3\bin\Debug\net6.0\Day9-Recursion3.exe
+E:\HackerRank.30DaysOfCode\Day9-Recursion3\bin\Debug\net6.0\Day9-Recursion3.deps.json
+E:\HackerRank.30DaysOfCode\Day9-Recursion3\bin\Debug\net6.0\Day9-Recursion3.runtimeconfig.json
+E:\HackerRank.30DaysOfCode\Day9-Recursion3\bin\Debug\net6.0\Day9-Recursion3.dll
+E:\HackerRank.30DaysOfCode\Day9-Recursion3\bin\Debug\net6.0\ref\Day9-Recursion3.dll
+E:\HackerRank.30DaysOfCode\Day9-Recursion3\bin\Debug\net6.0\Day9-Recursion3.pdb
+E:\HackerRank.30DaysOfCode\Day9-Recursion3\obj\Debug\net6.0\Day9-Recursion3.csproj.AssemblyReference.cache
+E:\HackerRank.30DaysOfCode\Day9-Recursion3\obj\Debug\net6.0\Day9-Recursion3.GeneratedMSBuildEditorConfig.editorconfig
+E:\HackerRank.30DaysOfCode\Day9-Recursion3\obj\Debug\net6.0\Day9-Recursion3.AssemblyInfoInputs.cache
+E:\HackerRank.30DaysOfCode\Day9-Recursion3\obj\Debug\net6.0\Day9-Recursion3.AssemblyInfo.cs
+E:\HackerRank.30DaysOfCode\Day9-Recursion3\obj\Debug\net6.0\Day9-Recursion3.csproj.CoreCompileInputs.cache
+E:\HackerRank.30DaysOfCode\Day9-Recursion3\obj\Debug\net6.0\Day9-Recursion3.dll
+E:\HackerRank.30DaysOfCode\Day9-Recursion3\obj\Debug\net6.0\ref\Day9-Recursion3.dll
+E:\HackerRank.30DaysOfCode\Day9-Recursion3\obj\Debug\net6.0\Day9-Recursion3.pdb
+E:\HackerRank.30DaysOfCode\Day9-Recursion3\obj\Debug\net6.0\Day9-Recursion3.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\HackerRank.30DaysOfCode\Day3-IntroToConditionalStatements\bin\Debug\net6.0\Day3-IntroToConditionalStatements.exe
+E:\HackerRank.30DaysOfCode\Day3-IntroToConditionalStatements\bin\Debug\net6.0\Day3-IntroToConditionalStatements.deps.json
+E:\HackerRank.30DaysOfCode\Day3-IntroToConditionalStatements\bin\Debug\net6.0\Day3-IntroToConditionalStatements.runtimeconfig.json
+E:\HackerRank.30DaysOfCode\Day3-IntroToConditionalStatements\bin\Debug\net6.0\Day3-IntroToConditionalStatements.dll
+E:\HackerRank.30DaysOfCode\Day3-IntroToConditionalStatements\bin\Debug\net6.0\ref\Day3-IntroToConditionalStatements.dll
+E:\HackerRank.30DaysOfCode\Day3-IntroToConditionalStatements\bin\Debug\net6.0\Day3-IntroToConditionalStatements.pdb
+E:\HackerRank.30DaysOfCode\Day3-IntroToConditionalStatements\obj\Debug\net6.0\Day3-IntroToConditionalStatements.csproj.AssemblyReference.cache
+E:\HackerRank.30DaysOfCode\Day3-IntroToConditionalStatements\obj\Debug\net6.0\Day3-IntroToConditionalStatements.GeneratedMSBuildEditorConfig.editorconfig
+E:\HackerRank.30DaysOfCode\Day3-IntroToConditionalStatements\obj\Debug\net6.0\Day3-IntroToConditionalStatements.AssemblyInfoInputs.cache
+E:\HackerRank.30DaysOfCode\Day3-IntroToConditionalStatements\obj\Debug\net6.0\Day3-IntroToConditionalStatements.AssemblyInfo.cs
+E:\HackerRank.30DaysOfCode\Day3-IntroToConditionalStatements\obj\Debug\net6.0\Day3-IntroToConditionalStatements.csproj.CoreCompileInputs.cache
+E:\HackerRank.30DaysOfCode\Day3-IntroToConditionalStatements\obj\Debug\net6.0\Day3-IntroToConditionalStatements.dll
+E:\HackerRank.30DaysOfCode\Day3-IntroToConditionalStatements\obj\Debug\net6.0\ref\Day3-IntroToConditionalStatements.dll
+E:\HackerRank.30DaysOfCode\Day3-IntroToConditionalStatements\obj\Debug\net6.0\Day3-IntroToConditionalStatements.pdb
+E:\HackerRank.30DaysOfCode\Day3-IntroToConditionalStatements\obj\Debug\net6.0\Day3-IntroToConditionalStatements.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\HackerRank.30DaysOfCode\Day18-QueuesAndStacks\bin\Debug\net6.0\Day18-QueuesAndStacks.exe
+E:\HackerRank.30DaysOfCode\Day18-QueuesAndStacks\bin\Debug\net6.0\Day18-QueuesAndStacks.deps.json
+E:\HackerRank.30DaysOfCode\Day18-QueuesAndStacks\bin\Debug\net6.0\Day18-QueuesAndStacks.runtimeconfig.json
+E:\HackerRank.30DaysOfCode\Day18-QueuesAndStacks\bin\Debug\net6.0\Day18-QueuesAndStacks.dll
+E:\HackerRank.30DaysOfCode\Day18-QueuesAndStacks\bin\Debug\net6.0\ref\Day18-QueuesAndStacks.dll
+E:\HackerRank.30DaysOfCode\Day18-QueuesAndStacks\bin\Debug\net6.0\Day18-QueuesAndStacks.pdb
+E:\HackerRank.30DaysOfCode\Day18-QueuesAndStacks\obj\Debug\net6.0\Day18-QueuesAndStacks.csproj.AssemblyReference.cache
+E:\HackerRank.30DaysOfCode\Day18-QueuesAndStacks\obj\Debug\net6.0\Day18-QueuesAndStacks.GeneratedMSBuildEditorConfig.editorconfig
+E:\HackerRank.30DaysOfCode\Day18-QueuesAndStacks\obj\Debug\net6.0\Day18-QueuesAndStacks.AssemblyInfoInputs.cache
+E:\HackerRank.30DaysOfCode\Day18-QueuesAndStacks\obj\Debug\net6.0\Day18-QueuesAndStacks.AssemblyInfo.cs
+E:\HackerRank.30DaysOfCode\Day18-QueuesAndStacks\obj\Debug\net6.0\Day18-QueuesAndStacks.csproj.CoreCompileInputs.cache
+E:\HackerRank.30DaysOfCode\Day18-QueuesAndStacks\obj\Debug\net6.0\Day18-QueuesAndStacks.dll
+E:\HackerRank.30DaysOfCode\Day18-QueuesAndStacks\obj\Debug\net6.0\ref\Day18-QueuesAndStacks.dll
+E:\HackerRank.30DaysOfCode\Day18-QueuesAndStacks\obj\Debug\net6.0\Day18-QueuesAndStacks.pdb
+E:\HackerRank.30DaysOfCode\Day18-QueuesAndStacks\obj\Debug\net6.0\Day18-QueuesAndStacks.genruntimeconfig.cache

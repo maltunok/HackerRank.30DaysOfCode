@@ -1,0 +1,15 @@
+E:\HackerRank.30DaysOfCode\Day4-ClassVsInstance\bin\Debug\net6.0\Day4-ClassVsInstance.exe
+E:\HackerRank.30DaysOfCode\Day4-ClassVsInstance\bin\Debug\net6.0\Day4-ClassVsInstance.deps.json
+E:\HackerRank.30DaysOfCode\Day4-ClassVsInstance\bin\Debug\net6.0\Day4-ClassVsInstance.runtimeconfig.json
+E:\HackerRank.30DaysOfCode\Day4-ClassVsInstance\bin\Debug\net6.0\Day4-ClassVsInstance.dll
+E:\HackerRank.30DaysOfCode\Day4-ClassVsInstance\bin\Debug\net6.0\ref\Day4-ClassVsInstance.dll
+E:\HackerRank.30DaysOfCode\Day4-ClassVsInstance\bin\Debug\net6.0\Day4-ClassVsInstance.pdb
+E:\HackerRank.30DaysOfCode\Day4-ClassVsInstance\obj\Debug\net6.0\Day4-ClassVsInstance.csproj.AssemblyReference.cache
+E:\HackerRank.30DaysOfCode\Day4-ClassVsInstance\obj\Debug\net6.0\Day4-ClassVsInstance.GeneratedMSBuildEditorConfig.editorconfig
+E:\HackerRank.30DaysOfCode\Day4-ClassVsInstance\obj\Debug\net6.0\Day4-ClassVsInstance.AssemblyInfoInputs.cache
+E:\HackerRank.30DaysOfCode\Day4-ClassVsInstance\obj\Debug\net6.0\Day4-ClassVsInstance.AssemblyInfo.cs
+E:\HackerRank.30DaysOfCode\Day4-ClassVsInstance\obj\Debug\net6.0\Day4-ClassVsInstance.csproj.CoreCompileInputs.cache
+E:\HackerRank.30DaysOfCode\Day4-ClassVsInstance\obj\Debug\net6.0\Day4-ClassVsInstance.dll
+E:\HackerRank.30DaysOfCode\Day4-ClassVsInstance\obj\Debug\net6.0\ref\Day4-ClassVsInstance.dll
+E:\HackerRank.30DaysOfCode\Day4-ClassVsInstance\obj\Debug\net6.0\Day4-ClassVsInstance.pdb
+E:\HackerRank.30DaysOfCode\Day4-ClassVsInstance\obj\Debug\net6.0\Day4-ClassVsInstance.genruntimeconfig.cache

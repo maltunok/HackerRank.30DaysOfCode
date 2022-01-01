@@ -1,0 +1,15 @@
+E:\HackerRank.30DaysOfCode\Day14-Scope\bin\Debug\net6.0\Day14-Scope.exe
+E:\HackerRank.30DaysOfCode\Day14-Scope\bin\Debug\net6.0\Day14-Scope.deps.json
+E:\HackerRank.30DaysOfCode\Day14-Scope\bin\Debug\net6.0\Day14-Scope.runtimeconfig.json
+E:\HackerRank.30DaysOfCode\Day14-Scope\bin\Debug\net6.0\Day14-Scope.dll
+E:\HackerRank.30DaysOfCode\Day14-Scope\bin\Debug\net6.0\ref\Day14-Scope.dll
+E:\HackerRank.30DaysOfCode\Day14-Scope\bin\Debug\net6.0\Day14-Scope.pdb
+E:\HackerRank.30DaysOfCode\Day14-Scope\obj\Debug\net6.0\Day14-Scope.csproj.AssemblyReference.cache
+E:\HackerRank.30DaysOfCode\Day14-Scope\obj\Debug\net6.0\Day14-Scope.GeneratedMSBuildEditorConfig.editorconfig
+E:\HackerRank.30DaysOfCode\Day14-Scope\obj\Debug\net6.0\Day14-Scope.AssemblyInfoInputs.cache
+E:\HackerRank.30DaysOfCode\Day14-Scope\obj\Debug\net6.0\Day14-Scope.AssemblyInfo.cs
+E:\HackerRank.30DaysOfCode\Day14-Scope\obj\Debug\net6.0\Day14-Scope.csproj.CoreCompileInputs.cache
+E:\HackerRank.30DaysOfCode\Day14-Scope\obj\Debug\net6.0\Day14-Scope.dll
+E:\HackerRank.30DaysOfCode\Day14-Scope\obj\Debug\net6.0\ref\Day14-Scope.dll
+E:\HackerRank.30DaysOfCode\Day14-Scope\obj\Debug\net6.0\Day14-Scope.pdb
+E:\HackerRank.30DaysOfCode\Day14-Scope\obj\Debug\net6.0\Day14-Scope.genruntimeconfig.cache

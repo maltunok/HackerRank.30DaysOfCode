@@ -1,0 +1,15 @@
+E:\HackerRank.30DaysOfCode\Day16-ExceptionsStringToInteger\obj\Debug\net6.0\Day16-ExceptionsStringToInteger.csproj.AssemblyReference.cache
+E:\HackerRank.30DaysOfCode\Day16-ExceptionsStringToInteger\obj\Debug\net6.0\Day16-ExceptionsStringToInteger.GeneratedMSBuildEditorConfig.editorconfig
+E:\HackerRank.30DaysOfCode\Day16-ExceptionsStringToInteger\obj\Debug\net6.0\Day16-ExceptionsStringToInteger.AssemblyInfoInputs.cache
+E:\HackerRank.30DaysOfCode\Day16-ExceptionsStringToInteger\obj\Debug\net6.0\Day16-ExceptionsStringToInteger.AssemblyInfo.cs
+E:\HackerRank.30DaysOfCode\Day16-ExceptionsStringToInteger\obj\Debug\net6.0\Day16-ExceptionsStringToInteger.csproj.CoreCompileInputs.cache
+E:\HackerRank.30DaysOfCode\Day16-ExceptionsStringToInteger\bin\Debug\net6.0\Day16-ExceptionsStringToInteger.exe
+E:\HackerRank.30DaysOfCode\Day16-ExceptionsStringToInteger\bin\Debug\net6.0\Day16-ExceptionsStringToInteger.deps.json
+E:\HackerRank.30DaysOfCode\Day16-ExceptionsStringToInteger\bin\Debug\net6.0\Day16-ExceptionsStringToInteger.runtimeconfig.json
+E:\HackerRank.30DaysOfCode\Day16-ExceptionsStringToInteger\bin\Debug\net6.0\Day16-ExceptionsStringToInteger.dll
+E:\HackerRank.30DaysOfCode\Day16-ExceptionsStringToInteger\bin\Debug\net6.0\ref\Day16-ExceptionsStringToInteger.dll
+E:\HackerRank.30DaysOfCode\Day16-ExceptionsStringToInteger\bin\Debug\net6.0\Day16-ExceptionsStringToInteger.pdb
+E:\HackerRank.30DaysOfCode\Day16-ExceptionsStringToInteger\obj\Debug\net6.0\Day16-ExceptionsStringToInteger.dll
+E:\HackerRank.30DaysOfCode\Day16-ExceptionsStringToInteger\obj\Debug\net6.0\ref\Day16-ExceptionsStringToInteger.dll
+E:\HackerRank.30DaysOfCode\Day16-ExceptionsStringToInteger\obj\Debug\net6.0\Day16-ExceptionsStringToInteger.pdb
+E:\HackerRank.30DaysOfCode\Day16-ExceptionsStringToInteger\obj\Debug\net6.0\Day16-ExceptionsStringToInteger.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\HackerRank.30DaysOfCode\Day6-LetsReview\obj\Debug\net6.0\Day6-LetsReview.csproj.AssemblyReference.cache
+E:\HackerRank.30DaysOfCode\Day6-LetsReview\obj\Debug\net6.0\Day6-LetsReview.GeneratedMSBuildEditorConfig.editorconfig
+E:\HackerRank.30DaysOfCode\Day6-LetsReview\obj\Debug\net6.0\Day6-LetsReview.AssemblyInfoInputs.cache
+E:\HackerRank.30DaysOfCode\Day6-LetsReview\obj\Debug\net6.0\Day6-LetsReview.AssemblyInfo.cs
+E:\HackerRank.30DaysOfCode\Day6-LetsReview\obj\Debug\net6.0\Day6-LetsReview.csproj.CoreCompileInputs.cache
+E:\HackerRank.30DaysOfCode\Day6-LetsReview\bin\Debug\net6.0\Day6-LetsReview.exe
+E:\HackerRank.30DaysOfCode\Day6-LetsReview\bin\Debug\net6.0\Day6-LetsReview.deps.json
+E:\HackerRank.30DaysOfCode\Day6-LetsReview\bin\Debug\net6.0\Day6-LetsReview.runtimeconfig.json
+E:\HackerRank.30DaysOfCode\Day6-LetsReview\bin\Debug\net6.0\Day6-LetsReview.dll
+E:\HackerRank.30DaysOfCode\Day6-LetsReview\bin\Debug\net6.0\ref\Day6-LetsReview.dll
+E:\HackerRank.30DaysOfCode\Day6-LetsReview\bin\Debug\net6.0\Day6-LetsReview.pdb
+E:\HackerRank.30DaysOfCode\Day6-LetsReview\obj\Debug\net6.0\Day6-LetsReview.dll
+E:\HackerRank.30DaysOfCode\Day6-LetsReview\obj\Debug\net6.0\ref\Day6-LetsReview.dll
+E:\HackerRank.30DaysOfCode\Day6-LetsReview\obj\Debug\net6.0\Day6-LetsReview.pdb
+E:\HackerRank.30DaysOfCode\Day6-LetsReview\obj\Debug\net6.0\Day6-LetsReview.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\HackerRank.30DaysOfCode\Day1-DataTypes\bin\Debug\net6.0\Day1-DataTypes.exe
+E:\HackerRank.30DaysOfCode\Day1-DataTypes\bin\Debug\net6.0\Day1-DataTypes.deps.json
+E:\HackerRank.30DaysOfCode\Day1-DataTypes\bin\Debug\net6.0\Day1-DataTypes.runtimeconfig.json
+E:\HackerRank.30DaysOfCode\Day1-DataTypes\bin\Debug\net6.0\Day1-DataTypes.dll
+E:\HackerRank.30DaysOfCode\Day1-DataTypes\bin\Debug\net6.0\ref\Day1-DataTypes.dll
+E:\HackerRank.30DaysOfCode\Day1-DataTypes\bin\Debug\net6.0\Day1-DataTypes.pdb
+E:\HackerRank.30DaysOfCode\Day1-DataTypes\obj\Debug\net6.0\Day1-DataTypes.csproj.AssemblyReference.cache
+E:\HackerRank.30DaysOfCode\Day1-DataTypes\obj\Debug\net6.0\Day1-DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+E:\HackerRank.30DaysOfCode\Day1-DataTypes\obj\Debug\net6.0\Day1-DataTypes.AssemblyInfoInputs.cache
+E:\HackerRank.30DaysOfCode\Day1-DataTypes\obj\Debug\net6.0\Day1-DataTypes.AssemblyInfo.cs
+E:\HackerRank.30DaysOfCode\Day1-DataTypes\obj\Debug\net6.0\Day1-DataTypes.csproj.CoreCompileInputs.cache
+E:\HackerRank.30DaysOfCode\Day1-DataTypes\obj\Debug\net6.0\Day1-DataTypes.dll
+E:\HackerRank.30DaysOfCode\Day1-DataTypes\obj\Debug\net6.0\ref\Day1-DataTypes.dll
+E:\HackerRank.30DaysOfCode\Day1-DataTypes\obj\Debug\net6.0\Day1-DataTypes.pdb
+E:\HackerRank.30DaysOfCode\Day1-DataTypes\obj\Debug\net6.0\Day1-DataTypes.genruntimeconfig.cache

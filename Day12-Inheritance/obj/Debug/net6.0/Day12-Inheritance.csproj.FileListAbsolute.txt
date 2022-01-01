@@ -1,0 +1,15 @@
+E:\HackerRank.30DaysOfCode\Day12-Inheritance\obj\Debug\net6.0\Day12-Inheritance.csproj.AssemblyReference.cache
+E:\HackerRank.30DaysOfCode\Day12-Inheritance\obj\Debug\net6.0\Day12-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+E:\HackerRank.30DaysOfCode\Day12-Inheritance\obj\Debug\net6.0\Day12-Inheritance.AssemblyInfoInputs.cache
+E:\HackerRank.30DaysOfCode\Day12-Inheritance\obj\Debug\net6.0\Day12-Inheritance.AssemblyInfo.cs
+E:\HackerRank.30DaysOfCode\Day12-Inheritance\obj\Debug\net6.0\Day12-Inheritance.csproj.CoreCompileInputs.cache
+E:\HackerRank.30DaysOfCode\Day12-Inheritance\bin\Debug\net6.0\Day12-Inheritance.exe
+E:\HackerRank.30DaysOfCode\Day12-Inheritance\bin\Debug\net6.0\Day12-Inheritance.deps.json
+E:\HackerRank.30DaysOfCode\Day12-Inheritance\bin\Debug\net6.0\Day12-Inheritance.runtimeconfig.json
+E:\HackerRank.30DaysOfCode\Day12-Inheritance\bin\Debug\net6.0\Day12-Inheritance.dll
+E:\HackerRank.30DaysOfCode\Day12-Inheritance\bin\Debug\net6.0\ref\Day12-Inheritance.dll
+E:\HackerRank.30DaysOfCode\Day12-Inheritance\bin\Debug\net6.0\Day12-Inheritance.pdb
+E:\HackerRank.30DaysOfCode\Day12-Inheritance\obj\Debug\net6.0\Day12-Inheritance.dll
+E:\HackerRank.30DaysOfCode\Day12-Inheritance\obj\Debug\net6.0\ref\Day12-Inheritance.dll
+E:\HackerRank.30DaysOfCode\Day12-Inheritance\obj\Debug\net6.0\Day12-Inheritance.pdb
+E:\HackerRank.30DaysOfCode\Day12-Inheritance\obj\Debug\net6.0\Day12-Inheritance.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+E:\HackerRank.30DaysOfCode\Day2-Operators\bin\Debug\net6.0\Day2-Operators.exe
+E:\HackerRank.30DaysOfCode\Day2-Operators\bin\Debug\net6.0\Day2-Operators.deps.json
+E:\HackerRank.30DaysOfCode\Day2-Operators\bin\Debug\net6.0\Day2-Operators.runtimeconfig.json
+E:\HackerRank.30DaysOfCode\Day2-Operators\bin\Debug\net6.0\Day2-Operators.dll
+E:\HackerRank.30DaysOfCode\Day2-Operators\bin\Debug\net6.0\ref\Day2-Operators.dll
+E:\HackerRank.30DaysOfCode\Day2-Operators\bin\Debug\net6.0\Day2-Operators.pdb
+E:\HackerRank.30DaysOfCode\Day2-Operators\obj\Debug\net6.0\Day2-Operators.csproj.AssemblyReference.cache
+E:\HackerRank.30DaysOfCode\Day2-Operators\obj\Debug\net6.0\Day2-Operators.GeneratedMSBuildEditorConfig.editorconfig
+E:\HackerRank.30DaysOfCode\Day2-Operators\obj\Debug\net6.0\Day2-Operators.AssemblyInfoInputs.cache
+E:\HackerRank.30DaysOfCode\Day2-Operators\obj\Debug\net6.0\Day2-Operators.AssemblyInfo.cs
+E:\HackerRank.30DaysOfCode\Day2-Operators\obj\Debug\net6.0\Day2-Operators.csproj.CoreCompileInputs.cache
+E:\HackerRank.30DaysOfCode\Day2-Operators\obj\Debug\net6.0\Day2-Operators.dll
+E:\HackerRank.30DaysOfCode\Day2-Operators\obj\Debug\net6.0\ref\Day2-Operators.dll
+E:\HackerRank.30DaysOfCode\Day2-Operators\obj\Debug\net6.0\Day2-Operators.pdb
+E:\HackerRank.30DaysOfCode\Day2-Operators\obj\Debug\net6.0\Day2-Operators.genruntimeconfig.cache

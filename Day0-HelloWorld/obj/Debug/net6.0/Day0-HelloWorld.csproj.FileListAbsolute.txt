@@ -1,0 +1,15 @@
+E:\HackerRank.30DaysOfCode\Day0-HelloWorld\bin\Debug\net6.0\Day0-HelloWorld.exe
+E:\HackerRank.30DaysOfCode\Day0-HelloWorld\bin\Debug\net6.0\Day0-HelloWorld.deps.json
+E:\HackerRank.30DaysOfCode\Day0-HelloWorld\bin\Debug\net6.0\Day0-HelloWorld.runtimeconfig.json
+E:\HackerRank.30DaysOfCode\Day0-HelloWorld\bin\Debug\net6.0\Day0-HelloWorld.dll
+E:\HackerRank.30DaysOfCode\Day0-HelloWorld\bin\Debug\net6.0\ref\Day0-HelloWorld.dll
+E:\HackerRank.30DaysOfCode\Day0-HelloWorld\bin\Debug\net6.0\Day0-HelloWorld.pdb
+E:\HackerRank.30DaysOfCode\Day0-HelloWorld\obj\Debug\net6.0\Day0-HelloWorld.csproj.AssemblyReference.cache
+E:\HackerRank.30DaysOfCode\Day0-HelloWorld\obj\Debug\net6.0\Day0-HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\HackerRank.30DaysOfCode\Day0-HelloWorld\obj\Debug\net6.0\Day0-HelloWorld.AssemblyInfoInputs.cache
+E:\HackerRank.30DaysOfCode\Day0-HelloWorld\obj\Debug\net6.0\Day0-HelloWorld.AssemblyInfo.cs
+E:\HackerRank.30DaysOfCode\Day0-HelloWorld\obj\Debug\net6.0\Day0-HelloWorld.csproj.CoreCompileInputs.cache
+E:\HackerRank.30DaysOfCode\Day0-HelloWorld\obj\Debug\net6.0\Day0-HelloWorld.dll
+E:\HackerRank.30DaysOfCode\Day0-HelloWorld\obj\Debug\net6.0\ref\Day0-HelloWorld.dll
+E:\HackerRank.30DaysOfCode\Day0-HelloWorld\obj\Debug\net6.0\Day0-HelloWorld.pdb
+E:\HackerRank.30DaysOfCode\Day0-HelloWorld\obj\Debug\net6.0\Day0-HelloWorld.genruntimeconfig.cache

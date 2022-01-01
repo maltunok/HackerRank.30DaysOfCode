@@ -1,0 +1,15 @@
+E:\HackerRank.30DaysOfCode\Day26-NestedLogic\obj\Debug\net6.0\Day26-NestedLogic.csproj.AssemblyReference.cache
+E:\HackerRank.30DaysOfCode\Day26-NestedLogic\obj\Debug\net6.0\Day26-NestedLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\HackerRank.30DaysOfCode\Day26-NestedLogic\obj\Debug\net6.0\Day26-NestedLogic.AssemblyInfoInputs.cache
+E:\HackerRank.30DaysOfCode\Day26-NestedLogic\obj\Debug\net6.0\Day26-NestedLogic.AssemblyInfo.cs
+E:\HackerRank.30DaysOfCode\Day26-NestedLogic\obj\Debug\net6.0\Day26-NestedLogic.csproj.CoreCompileInputs.cache
+E:\HackerRank.30DaysOfCode\Day26-NestedLogic\bin\Debug\net6.0\Day26-NestedLogic.exe
+E:\HackerRank.30DaysOfCode\Day26-NestedLogic\bin\Debug\net6.0\Day26-NestedLogic.deps.json
+E:\HackerRank.30DaysOfCode\Day26-NestedLogic\bin\Debug\net6.0\Day26-NestedLogic.runtimeconfig.json
+E:\HackerRank.30DaysOfCode\Day26-NestedLogic\bin\Debug\net6.0\Day26-NestedLogic.dll
+E:\HackerRank.30DaysOfCode\Day26-NestedLogic\bin\Debug\net6.0\ref\Day26-NestedLogic.dll
+E:\HackerRank.30DaysOfCode\Day26-NestedLogic\bin\Debug\net6.0\Day26-NestedLogic.pdb
+E:\HackerRank.30DaysOfCode\Day26-NestedLogic\obj\Debug\net6.0\Day26-NestedLogic.dll
+E:\HackerRank.30DaysOfCode\Day26-NestedLogic\obj\Debug\net6.0\ref\Day26-NestedLogic.dll
+E:\HackerRank.30DaysOfCode\Day26-NestedLogic\obj\Debug\net6.0\Day26-NestedLogic.pdb
+E:\HackerRank.30DaysOfCode\Day26-NestedLogic\obj\Debug\net6.0\Day26-NestedLogic.genruntimeconfig.cache

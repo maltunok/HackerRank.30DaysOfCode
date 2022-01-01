@@ -1,0 +1,15 @@
+E:\HackerRank.30DaysOfCode\Day13-AbstractClasses\bin\Debug\net6.0\Day13-AbstractClasses.exe
+E:\HackerRank.30DaysOfCode\Day13-AbstractClasses\bin\Debug\net6.0\Day13-AbstractClasses.deps.json
+E:\HackerRank.30DaysOfCode\Day13-AbstractClasses\bin\Debug\net6.0\Day13-AbstractClasses.runtimeconfig.json
+E:\HackerRank.30DaysOfCode\Day13-AbstractClasses\bin\Debug\net6.0\Day13-AbstractClasses.dll
+E:\HackerRank.30DaysOfCode\Day13-AbstractClasses\bin\Debug\net6.0\ref\Day13-AbstractClasses.dll
+E:\HackerRank.30DaysOfCode\Day13-AbstractClasses\bin\Debug\net6.0\Day13-AbstractClasses.pdb
+E:\HackerRank.30DaysOfCode\Day13-AbstractClasses\obj\Debug\net6.0\Day13-AbstractClasses.csproj.AssemblyReference.cache
+E:\HackerRank.30DaysOfCode\Day13-AbstractClasses\obj\Debug\net6.0\Day13-AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+E:\HackerRank.30DaysOfCode\Day13-AbstractClasses\obj\Debug\net6.0\Day13-AbstractClasses.AssemblyInfoInputs.cache
+E:\HackerRank.30DaysOfCode\Day13-AbstractClasses\obj\Debug\net6.0\Day13-AbstractClasses.AssemblyInfo.cs
+E:\HackerRank.30DaysOfCode\Day13-AbstractClasses\obj\Debug\net6.0\Day13-AbstractClasses.csproj.CoreCompileInputs.cache
+E:\HackerRank.30DaysOfCode\Day13-AbstractClasses\obj\Debug\net6.0\Day13-AbstractClasses.dll
+E:\HackerRank.30DaysOfCode\Day13-AbstractClasses\obj\Debug\net6.0\ref\Day13-AbstractClasses.dll
+E:\HackerRank.30DaysOfCode\Day13-AbstractClasses\obj\Debug\net6.0\Day13-AbstractClasses.pdb
+E:\HackerRank.30DaysOfCode\Day13-AbstractClasses\obj\Debug\net6.0\Day13-AbstractClasses.genruntimeconfig.cache

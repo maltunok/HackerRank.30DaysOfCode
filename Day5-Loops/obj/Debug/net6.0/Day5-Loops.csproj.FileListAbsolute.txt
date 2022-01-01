@@ -1,0 +1,15 @@
+E:\HackerRank.30DaysOfCode\Day5-Loops\bin\Debug\net6.0\Day5-Loops.exe
+E:\HackerRank.30DaysOfCode\Day5-Loops\bin\Debug\net6.0\Day5-Loops.deps.json
+E:\HackerRank.30DaysOfCode\Day5-Loops\bin\Debug\net6.0\Day5-Loops.runtimeconfig.json
+E:\HackerRank.30DaysOfCode\Day5-Loops\bin\Debug\net6.0\Day5-Loops.dll
+E:\HackerRank.30DaysOfCode\Day5-Loops\bin\Debug\net6.0\ref\Day5-Loops.dll
+E:\HackerRank.30DaysOfCode\Day5-Loops\bin\Debug\net6.0\Day5-Loops.pdb
+E:\HackerRank.30DaysOfCode\Day5-Loops\obj\Debug\net6.0\Day5-Loops.csproj.AssemblyReference.cache
+E:\HackerRank.30DaysOfCode\Day5-Loops\obj\Debug\net6.0\Day5-Loops.GeneratedMSBuildEditorConfig.editorconfig
+E:\HackerRank.30DaysOfCode\Day5-Loops\obj\Debug\net6.0\Day5-Loops.AssemblyInfoInputs.cache
+E:\HackerRank.30DaysOfCode\Day5-Loops\obj\Debug\net6.0\Day5-Loops.AssemblyInfo.cs
+E:\HackerRank.30DaysOfCode\Day5-Loops\obj\Debug\net6.0\Day5-Loops.csproj.CoreCompileInputs.cache
+E:\HackerRank.30DaysOfCode\Day5-Loops\obj\Debug\net6.0\Day5-Loops.dll
+E:\HackerRank.30DaysOfCode\Day5-Loops\obj\Debug\net6.0\ref\Day5-Loops.dll
+E:\HackerRank.30DaysOfCode\Day5-Loops\obj\Debug\net6.0\Day5-Loops.pdb
+E:\HackerRank.30DaysOfCode\Day5-Loops\obj\Debug\net6.0\Day5-Loops.genruntimeconfig.cache

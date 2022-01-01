@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Day14-Scope/1.0.0": {
+        "runtime": {
+          "Day14-Scope.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day14-Scope/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
